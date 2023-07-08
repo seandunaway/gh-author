@@ -1,0 +1,6 @@
+{
+  "name": "@seandunaway/gh-author",
+  "version": "1.0.0",
+  "bin": "./gh-author.mjs",
+  "repository": "github:seandunaway/gh-author"
+}
